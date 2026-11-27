@@ -1,0 +1,15 @@
+{
+  "name": "Muse Fox #1",
+  "symbol": "FOX",
+  "description": "Muse Fox NFT on Solana devnet",
+  "image": "https://raw.githubusercontent.com/okxmajidcripto-dotcom/muse-token/main/logo.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/okxmajidcripto-dotcom/muse-token/main/logo.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
